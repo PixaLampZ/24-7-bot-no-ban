@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ournepal.aternos.me:21191",
+    "ip": "ournepal.aternos.me",
     "port": 21191,
     "version": "1.21.11",
     "try-creative": false
