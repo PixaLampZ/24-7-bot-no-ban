@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "betterment.aternos.me",
-    "port": 54752,
+    "ip": "ournepal.aternos.me:21191",
+    "port": 21191,
     "version": "1.21.11",
     "try-creative": false
   },
